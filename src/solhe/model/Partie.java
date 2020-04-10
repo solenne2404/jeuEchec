@@ -1,4 +1,4 @@
 package solhe.model;
 
-public class partie {
+public class Partie {
 }

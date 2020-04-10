@@ -1,4 +1,4 @@
 package solhe.model;
 
-public class piece {
+public class Piece {
 }
